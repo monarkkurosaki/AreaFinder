@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e6252514d62fd9ec202c40e200b7ce231d50678")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a7fc0331e416f94f840cc0260077f1e1915ba35")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
