@@ -1,0 +1,15 @@
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.AssemblyInfoInputs.cache
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.AssemblyInfo.cs
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.csproj.CoreCompileInputs.cache
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.sourcelink.json
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/bin/Debug/net9.0/AreaFinder
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/bin/Debug/net9.0/AreaFinder.deps.json
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/bin/Debug/net9.0/AreaFinder.runtimeconfig.json
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/bin/Debug/net9.0/AreaFinder.dll
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/bin/Debug/net9.0/AreaFinder.pdb
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.dll
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/refint/AreaFinder.dll
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.pdb
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/AreaFinder.genruntimeconfig.cache
+/Users/monarkkurosaki/Desktop/RiderProjects/AreaFinder/AreaFinder/obj/Debug/net9.0/ref/AreaFinder.dll
